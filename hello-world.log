@@ -1,0 +1,2 @@
+16:31:42,249 DEBUG SQL:92 - insert into message (TEXT) values (?)
+16:31:42,321 TRACE BasicBinder:64 - binding parameter [1] as [VARCHAR] - [Hello World with Hibernate XML]
